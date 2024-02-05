@@ -18,8 +18,10 @@ I'm Matheus Felipe, a passionate backend software engineer with almost 4 years o
 - 📄 Know about my experiences [https://linkedin.com/in/matheus-felipe](https://linkedin.com/in/matheus-felipe)
   
 #
-![marttheus's Stats](https://github-readme-stats-pi-tawny-63.vercel.app/api?username=marttheus&theme=radical&show_icons=true&hide_border=false&count_private=true)
+<div>
+  <img width="49%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/marttheus?cardType=level&theme=radical&preferLogin=false&border=DDDDDD00&background=DDDDDD00" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marttheus&layout=compact&title_color=fe428e&text_color=fff&bg_color=0d1117&border_color=fff0" />  
+</div>
 
 # Let's Connect!
 I'm always open to new opportunities, collaborations, and conversations. Feel free to reach out if you share similar interests or if you have exciting projects on the horizon. Let's connect and create something awesome together!
-
