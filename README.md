@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Matheus Felipe, a passionate backend software engineer with over 5 years of experience, originally from Belo Horizonte, Brazil. Currently, I call Buenos Aires, Argentina, my home. With a solid background in Analysis and Systems Development, I hold a degree in the field and am currently pursuing a postgraduate degree in Software Engineering at PUC Minas in Brazil.
+I'm Matheus Felipe, a passionate backend software engineer with over 5 years of experience, originally from Belo Horizonte, Brazil. With a solid background in Analysis and Systems Development, I hold a degree in the field and am currently pursuing a postgraduate degree in Software Engineering at PUC Minas in Brazil.
 
 - 🌱 I'm currently learning **GO**, **Angular**, **Systems Design** and **Software Architecture**
 
