@@ -1,17 +1,17 @@
 # Hi there! 👋
 I'm Matheus Felipe, a passionate backend software engineer with almost 4 years of experience, originally from Belo Horizonte, Brazil. Currently, I call Buenos Aires, Argentina, my home. With a solid background in Analysis and Systems Development, I hold a degree in the field and am currently pursuing a postgraduate degree in Software Engineering at PUC Minas in Brazil.
 
-- 🌱 I'm currently learning **GO**, **Systems Design** and **Software Architecture**
+- 🌱 I'm currently learning **GO**, **Angular**, **Systems Design** and **Software Architecture**
 
 - 👨‍💻 All of my projects are available at [https://marttheus.github.io/](https://marttheus.github.io/)
 
 - 👷 Working at **Stone Co**
 
-- ✅ Current stack **.NET, Azure, SQL Server, MongoDB, Redis, Grafana Loki, New Relic, Datadog, GCP**
+- ✅ Current stack **.NET, Azure, SQL Server, MongoDB, Redis, Grafana Loki, Kafka, New Relic, Datadog**
 
 - 💬 Ask me about **.NET, GO, Cloud and Software Architecture**
 
-- 🕙 I am **23** years old
+- 🕙 I am **24** years old
 
 - 📫 How to reach me **marttheusf@gmail.com**
 
